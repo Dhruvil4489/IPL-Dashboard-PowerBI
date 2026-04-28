@@ -43,7 +43,18 @@ It helps analyze team performance, match outcomes, toss decisions, venue statist
 ---
 
 ## 📷 Dashboard Preview
-![Homepage](images/Homepage.png)
+
+### 🏠 Homepage
+![Homepage](Homepage.png)
+
+### 🏏 IPL Summary
+![IPL Summary](IPLSUMMARY.png)
+
+### 🧑‍🏏 Batsman Stats
+![Batsman Stats](BatsmanSates.png)
+
+### 🎯 Bowler Stats
+![Bowler Stats](BowlerSates.png)
 
 ---
 
