@@ -43,10 +43,7 @@ It helps analyze team performance, match outcomes, toss decisions, venue statist
 ---
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
-
-Example:
-![Dashboard](images/dashboard.png)
+![Homepage](images/Homepage.png)
 
 ---
 
